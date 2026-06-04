@@ -1,99 +1,56 @@
-<h1 align="center">Hi 👋, I'm Musa Sherif</h1>
-
-<h3 align="center">
-Cybersecurity Specialist • Hardware Engineer • Full-Stack Developer
-</h3>
+<h1 align="center">Musa Sherif</h1>
 
 <p align="center">
-Building secure systems, repairing complex hardware, and creating modern web solutions.
+Cybersecurity Specialist • Hardware Engineer • Full-Stack Developer
+</p>
+
+<p align="center">
+Founder of SkyTech | Building Secure Systems & Modern Web Applications
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm the founder of **SkyTech**, a technology-focused brand dedicated to solving real-world problems through cybersecurity, hardware engineering, and software development.
+I am a technology professional focused on cybersecurity, hardware engineering, and software development.
 
-My expertise includes:
+I build practical solutions for real-world problems through secure systems, automation, and web technologies.
+
+### Core Expertise
 
 * 🔐 Cybersecurity & Digital Security
 * 💻 Laptop & Desktop Repair
 * 🔧 Motherboard Diagnostics & Repair
 * 🌐 Full-Stack Web Development
 * 🖥️ IT Support & System Administration
-* 🌍 Network Infrastructure & Troubleshooting
+* 🌍 Network Infrastructure
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Skills
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue?style=for-the-badge\&logo=css3)
-
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge\&logo=node.js)
-![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-System_Admin-black?style=for-the-badge\&logo=linux)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge\&logo=github)
+**Languages:** Python, JavaScript, HTML5, CSS3, SQL
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Databases:** PostgreSQL, MySQL, Supabase
+**Systems:** Linux, Windows
+**Security:** Penetration Testing, Vulnerability Assessment, Network Security
+**Tools:** Git, GitHub, VS Code, Figma
 
 ---
-## 🛠️ Technology Stack
 
-### Programming Languages
+## 📂 Featured Projects
 
-* Python
-* JavaScript
-* HTML5
-* CSS3
-* SQL
+* 🌐 **SkyTech Portfolio** — Business website for services & branding
+* 🐍 **Python Automation Tools** — Scripts for productivity & system tasks
+* 🔐 **Cybersecurity Toolkit** — Security learning and utilities
+* 📊 **React Dashboard** — Modern UI dashboard system
 
-### Frontend Development
-
-* React
-* Next.js
-* Responsive Design
-* Tailwind CSS
-
-### Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-
-### Cybersecurity
-
-* Vulnerability Assessment
-* Security Auditing
-* Penetration Testing
-* Network Security
-
-### Hardware & Systems
-
-* Laptop Repair
-* Desktop Repair
-* Motherboard Diagnostics
-* Windows Administration
-* Linux Administration
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Supabase
-* Figma
-* Docker (Learning)
+---
 
 ## 📚 Certifications
 
 * A++ Cybersecurity Certification
-* Continuous Professional Development in Cybersecurity & Software Engineering
 
 ---
 
@@ -101,35 +58,23 @@ My expertise includes:
 
 * Cloud Computing
 * DevOps Engineering
-* Artificial Intelligence Automation
+* AI Automation
 * Advanced Penetration Testing
-* Secure Web Application Development
 
 ---
 
-## 📈 GitHub Goals for 2026
-
-* Build and publish production-ready projects
-* Contribute to open-source projects
-* Expand SkyTech's software portfolio
-* Share cybersecurity knowledge with the community
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
 
 📧 Email: [skytech08088@gmail.com](mailto:skytech08088@gmail.com)
 
-📱 Phone: +1 864-343-1751
-
 ---
 
-## ⚡ Personal Philosophy
+## ⚡ Philosophy
 
 > Technology should solve problems, not create them.
 
 ---
 
 <p align="center">
-<b>SkyTech</b> • Engineering the Future Through Technology
+<strong>SkyTech</strong> • Engineering the Future Through Technology
 </p>
