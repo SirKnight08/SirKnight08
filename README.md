@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=SkyTech%20%7C%20Musa%20Sherif&fontSize=35&fontColor=ffffff" />
+</p>
 <h1 align="center">Hi 👋, I'm Musa Sherif</h1>
 
 <h3 align="center">
@@ -117,8 +120,21 @@ My expertise includes:
 ---
 
 ## 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 Email: [skytech08088@gmail.com](mailto:skytech08088@gmail.com)
+<p align="center">
+  <a href="mailto:skytech08088@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/SirKnight08">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-SkyTech-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 📱 Phone: +1 864-343-1751
 
@@ -138,23 +154,42 @@ My expertise includes:
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-### 🔐 Cybersecurity Tools
+### 🌐 SkyTech Portfolio (Business Platform)
+A modern web platform built to represent SkyTech services and digital identity.
 
-Security-focused scripts and utilities for learning and research.
+- **Purpose:** Business branding + client acquisition
+- **Role:** Full design & development
+- **Stack:** HTML, CSS, JavaScript (upgradeable to React)
+- **Status:** In progress / evolving system
 
-### 🌐 SkyTech Portfolio
+---
 
-Modern business portfolio showcasing services and projects.
+### 🐍 Python Automation System
+A collection of automation scripts designed to improve productivity and system efficiency.
 
-### 🐍 Python Automation
+- **Purpose:** Automate repetitive tasks
+- **Focus:** System-level automation
+- **Skills used:** Python, OS scripting
 
-Automation tools built with Python to improve productivity.
+---
 
-### 📊 React Dashboard
+### 🔐 Cybersecurity Toolkit
+A set of security-focused tools and learning utilities.
 
-Modern dashboard application built with React.
+- **Purpose:** Cybersecurity practice & testing
+- **Focus:** Vulnerability concepts, security awareness
+- **Skills used:** Python, Linux, networking
+
+---
+
+### 📊 React Dashboard Interface
+A modern UI dashboard built with React for data visualization concepts.
+
+- **Purpose:** UI/UX + frontend practice
+- **Focus:** Responsive design, component architecture
+- **Skills used:** React, JavaScript, CSS
 
 ---
 
@@ -175,4 +210,16 @@ I enjoy solving complex hardware and software problems, from motherboard repairs
 
 <p align="center">
 <b>SkyTech</b> • Engineering the Future Through Technology
+</p>
+## 📊 GitHub Stats
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SirKnight08&show_icons=true&theme=default&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirKnight08&layout=compact&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirKnight08&theme=default&hide_border=true"/>
 </p>
